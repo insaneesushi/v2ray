@@ -1,4 +1,4 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.62:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 001
+-41a6-a5f9-704d36ff0d8d@192.0.54.62:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 001
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.64.88.36:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.ye.gs&path=/danfeng&sni=snippet.fgfw.ye.gs&fp=random#SG 002
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.191:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 003
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.62:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 004
