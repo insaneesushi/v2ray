@@ -1,14 +1,3 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.191:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 001
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#SG 002
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&fp=chrome#SG 010
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560&sni=sni.jpmj.dev&fp=chrome#SG 004
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560&sni=sni.jpmj.dev&fp=chrome#SG 006
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.62:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=random&alpn=http/1.1#SG 007
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&sni=sni.jpmj.dev&fp=chrome#SG 008
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&fp=chrome#SG 009
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&fp=chrome#SG 010
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&fp=chrome#SG 011
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/?ed%3D2560&sni=sni.111000.indevs.in&fp=chrome#SG 012
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%255Bopenproxylist.com%255D%2520SG%25203263
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%255Bopenproxylist.com%255D%2520SG%25201556
-
+vless://OjYyMDJiMjMwLTQxN2MtNGQ4ZS1iNjI0LTBmNzFhZmE5Yzc1ZEAxODUuMTYyLjIzMS4xMzg6MjA5Ng?path=/&remarks=SG%20001&obfsParam=sni.111000.indevs.in&obfs=websocket&tls=1&peer=sni.111000.indevs.in&allowInsecure=1
+vless://bm9uZTo2MjAyYjIzMC00MTdjLTRkOGUtYjYyNC0wZjcxYWZhOWM3NWRAMTg4LjI0NC4xMjIuMTM4OjIwOTY?path=/&remarks=SG%20002&obfsParam=sni.111000.indevs.in&obfs=websocket&tls=1&peer=sni.111000.indevs.in
+vless://OmE2ZjE3NTVmLTAxNDAtNGJlYS04NzI3LTBkYjFiZWQ3YzRkZkAxNjIuMTU5LjEzLjIwNjo0NDM?path=/&remarks=SG%20003&obfsParam=juzi.qea.ccwu.cc&obfs=websocket&tls=1&peer=juzi.qea.ccwu.cc&allowInsecure=1
