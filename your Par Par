@@ -6,3 +6,4 @@ ssh://yoon1:281984Thanhtike@ssh-yoon1.alwaysdata.net:22
 ssh://akujii:281984Thanhtike@ssh-akujii.alwaysdata.net:22
 wg://8.6.112.128:1070?publicKey=bmXOC%2BF1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&privateKey=dxNthrZtdevvvKZI5lfX9Kyk1OWaN06TmvF4VQJoSZk%3D&ip=172.16.0.2,2606:4700:110:83c7:4760:54fd:11a:ce32&mtu=1280&dns=1.1.1.1&udp=1&flag=CDN#wireguard%20001
 wg://188.114.99.223:500?publicKey=bmXOC%2BF1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&privateKey=T0JCo/sK1wGHQRsK7DifolICBExuIXlXap/euKBXt4U%3D&ip=172.16.0.2,2606:4700:110:80ee:1c8c:31f3:f84e:248d&mtu=1280&dns=1.1.1.1,%201.0.0.1&udp=1&flag=CDN#wireguard%20002
+ssh://akujii-vpnjantit.com:akujii@vn1.vpnjantit.com:22
