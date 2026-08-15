@@ -1,5 +1,4 @@
-vless://OmVkZDFiYjI3LTlhZGMtNDQyNS04NjMxLTYzOGVlNTdjMWNiNUB2cG4uaW5zYW5lZS51cy5jaTozMTQxNw?path=/vless&remarks=VLESS-WS-TLS&obfsParam=vpn.insanee.us.ci&obfs=websocket&tls=1&peer=vpn.insanee.us.ci
-vless://1d0f4b89-d1f4-40f3-9445-212742a568a9@149.118.152.103:12247?sni=www.google.com&flow=xtls-rprx-vision&headerType=none&fp=chrome&encryption=none&pbk=KARbBG310d11R1tILKErBT8KSsJiAw6cPE4H9eoC9Ts&type=tcp&sid=1234567890abcdef&security=reality#malaysia
-ssh://cm9vdDotQ0JqczBqQkpLRTNSaWd0@94.23.255.52:31415#france
-ssh://eW9vbjFfeXk6MjgxOTg0VGhhbmh0aWtl@185.31.41.85:22#ssh
-vless://OmVkZDFiYjI3LTlhZGMtNDQyNS04NjMxLTYzOGVlNTdjMWNiNUB2cG4uaW5zYW5lZS51cy5jaTozMTQxNw?path=/vless&remarks=VLESS-WS-TLS&obfsParam=vpn.insanee.us.ci&obfs=websocket&tls=1&peer=vpn.insanee.us.ci&tfo=1&udp=1
+ssh://tech4u:tech4u@172.238.14.158:22
+ssh://yoon1_yy:281984Thanhtike@185.31.41.85:22
+wg://188.114.99.220:500?publicKey=bmXOC%2BF1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo%3D&privateKey=6JoYMgHWfqz4sKgf4zp3bJHvt/ehr31v8DpEXeBCk0k%3D&ip=172.16.0.2,2606:4700:110:8441:3ee8:2ef9:d165:6425&mtu=1280&dns=1.1.1.1,%201.0.0.1,%202606:4700:4700::1111,%202606:4700:4700::1001&udp=1&flag=CDN
+wg://94.23.255.52:51820?publicKey=L57pHbyZd5pkOZtt8wp598Lc8S8qhl4hd3WnOv/zHwM%3D&privateKey=GDJEerpwO44PxoqqiGP3%2B%2B3%2BywVwXZ4l%2B1whireRj28%3D&ip=10.66.66.2&dns=1.1.1.1&udp=1&flag=FR
